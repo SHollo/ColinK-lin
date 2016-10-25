@@ -7,4 +7,8 @@ Til Valborg: Hold kjeft, ditt sinnssyke kvinnemenneske!
 
 jdwaliwadho
 
+<<<<<<< HEAD
 dette er Philippes endring
+=======
+JUHUUUU! WHAOOO!
+>>>>>>> fbcd5553ba15009ed287db6949e162e4216ded72
