@@ -1,0 +1,6 @@
+Dett er en mergeconflict test
+<<<<<<< HEAD
+Colin
+=======
+Tobias
+>>>>>>> 66a02ceeb1850f9cff494b6956230285c32aeeb9
