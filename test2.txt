@@ -5,6 +5,15 @@ PAPPSKALLER OG HENGERUMPER!
 Amatører! Idioter! Pappskaller og hengerumper!
 Til Valborg: Hold kjeft, ditt sinnssyke kvinnemenneske!
 
+<<<<<<< HEAD
 jdwaliwadho
 
 JUHUUUU! WHAOOO!
+=======
+
+jdwaliwadho
+
+JUHUUUU! WHAOOO!
+
+jdwaliwadho
+>>>>>>> 97a7ea2ac74a40fc0e59072f1a311292012bddae
