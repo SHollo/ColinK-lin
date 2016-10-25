@@ -1,4 +1,4 @@
-dette er en
+﻿dette er en
 fuckings test
 Colin er en amatør
 Philipe er ikke så sykt mye bedre!!!!
@@ -8,3 +8,5 @@ Im in
 Joooo,han kan shortcut crtl + x!!!!
 >>>>>>> ac98b45ad8a4a55ad20372549e1a35e865d62f92
 testestest
+
+Jeg er trøtttttttttttt
