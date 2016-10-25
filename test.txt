@@ -1,7 +1,0 @@
-dette er en
-fuckings test
-<<<<<<< HEAD
-Colin er en neger
-=======
-Colin er en amatør
->>>>>>> 305582f31d981a9fbd528e7c6b961c6e3beab0cd
